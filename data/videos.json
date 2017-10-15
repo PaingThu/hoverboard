@@ -1,0 +1,44 @@
+[
+  {
+    "youtubeId": "cjsdqCdsKe8",
+    "title": "Dev Fest Yangon 2016",
+    "speakers": "-",
+    "thumbnail": "/images/sessions/1.jpg"
+  },
+  {
+    "youtubeId": "6kLZWGoElzk",
+    "title": "The Journey to Google Play Awards Nominations",
+    "speakers": "Taylor Ling",
+    "thumbnail": "/images/sessions/2.jpg"
+  },
+  {
+    "youtubeId": "xMVqA1fma94",
+    "title": "Building quality apps with Firebase Test Lab and Android Studio 2.0 ",
+    "speakers": "Inaki Villar",
+    "thumbnail": "/images/sessions/3.jpg"
+  },
+  {
+    "youtubeId": "NsTsuNS0iBk",
+    "title": "Google Cloud and IoT",
+    "speakers": "Ko Ko Ye",
+    "thumbnail": "/images/sessions/4.jpg"
+  },
+  {
+    "youtubeId": "tsbhjzA5SCE",
+    "title": "Working with Recyclerview",
+    "speakers": "Poe Poe Myint Swe",
+    "thumbnail": "/images/sessions/5.jpg"
+  },
+  {
+    "youtubeId": "gXVx1pF021U",
+    "title": "How to create secure Android applications?",
+    "speakers": "Su Mon Kywe",
+    "thumbnail": "/images/sessions/6.jpg"
+  },
+  {
+    "youtubeId": "L9jhy-KKqOo",
+    "title": "Youth Technology and Disruptive Innovation",
+    "speakers": "Dr. Tun Thura Thet",
+    "thumbnail": "/images/sessions/7.jpg"
+  }
+]

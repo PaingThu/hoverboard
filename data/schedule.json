@@ -1,0 +1,28 @@
+[
+  {
+    "date": "2017-10-13",
+    "dateReadable": "October 13",
+    "timeslots": [
+      {
+        "endTime": "04:00",
+        "sessions": [
+          [
+            1
+          ]
+        ],
+        "startTime": "01:00"
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Expo hall"
+      },
+      {
+        "title": "Conference hall"
+      },
+      {
+        "title": "Workshops hall"
+      }
+    ]
+  }
+]
