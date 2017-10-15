@@ -1,0 +1,32 @@
+[debug] [2017-10-13T01:41:19.808Z] ----------------------------------------------------------------------
+[debug] [2017-10-13T01:41:19.811Z] Command:       /usr/local/bin/node /usr/local/bin/firebase deploy
+[debug] [2017-10-13T01:41:19.812Z] CLI Version:   3.12.0
+[debug] [2017-10-13T01:41:19.812Z] Platform:      darwin
+[debug] [2017-10-13T01:41:19.812Z] Node Version:  v8.5.0
+[debug] [2017-10-13T01:41:19.812Z] Time:          Fri Oct 13 2017 08:11:19 GMT+0630 (+0630)
+[debug] [2017-10-13T01:41:19.812Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-10-13T01:41:19.830Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2017-10-13T01:41:19.830Z] > authorizing via signed-in user
+[debug] [2017-10-13T01:41:19.833Z] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
+[debug] [2017-10-13T01:41:19.834Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token { refresh_token: '1/z6s1alfLbwsFW6zvnpBRbtG_97vz7u5HwzjiCwkjeMoqbJ0b46XMjOfxyA_uQ94C',
+  client_id: '563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com',
+  client_secret: 'j9iVZfS8kkCEFUPaAeJV0sAi',
+  grant_type: 'refresh_token',
+  scope: 'email https://www.googleapis.com/auth/cloud-platform https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/firebase openid' } 
+ Fri Oct 13 2017 08:11:19 GMT+0630 (+0630)
+[debug] [2017-10-13T01:41:20.321Z] <<< HTTP RESPONSE 200
+[debug] [2017-10-13T01:41:20.337Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/devfestmyanmar2017  
+ Fri Oct 13 2017 08:11:20 GMT+0630 (+0630)
+[debug] [2017-10-13T01:41:22.756Z] <<< HTTP RESPONSE 200
+[debug] [2017-10-13T01:41:22.757Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/devfestmyanmar2017/tokens  
+ Fri Oct 13 2017 08:11:22 GMT+0630 (+0630)
+[debug] [2017-10-13T01:41:23.779Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Deploying to 'devfestmyanmar2017'...
+[info] 
+[info] i  deploying database, hosting
+[info] ✔  database: rules ready to deploy.
+[info] i  hosting: preparing build directory for upload...
+[debug] [2017-10-13T01:41:30.867Z] >>> HTTP REQUEST PUT https://deploy.firebase.com/v1/hosting/devfestmyanmar2017/uploads/-KwIOA5GJAWHLieo9prt?fileCount=157&message=  
+ Fri Oct 13 2017 08:11:30 GMT+0630 (+0630)
